@@ -1,4 +1,4 @@
-# LeagueOfLeagends-MatchAccepter
+# MatchAccepter
 
 Vlw por baixar
 
