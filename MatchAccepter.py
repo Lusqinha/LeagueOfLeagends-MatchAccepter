@@ -31,7 +31,7 @@ def main():
 theme('DarkBrown1')
 
 layout = [
-    [Text('Para o programa funcionar, o Client deve ser estar na tela principal.')],
+    [Text('Para o programa funcionar, o Client deve estar na tela principal.')],
     [Button('Iniciar')],
     [Output(size=(50,3))]
 ]
