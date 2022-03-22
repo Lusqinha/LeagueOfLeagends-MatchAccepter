@@ -1,6 +1,6 @@
 # MatchAccepter
 
-Vlw por baixar
+Projeto simples feito apenas para uso pessoal
 
 Meu telegram caso queira mandar foto do gato
 
